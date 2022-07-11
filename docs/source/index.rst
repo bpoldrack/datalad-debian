@@ -28,6 +28,7 @@ High-level API commands
    deb_new_package
    deb_build_package
    deb_new_reprepro_repository
+   deb_update_reprepro_repository
    deb_add_distribution
 
 
@@ -43,6 +44,7 @@ Command line reference
    generated/man/datalad-deb-new-package
    generated/man/datalad-deb-build-package
    generated/man/datalad-deb-new-reprepro-repository
+   generated/man/datalad-deb-update-reprepro-repository
    generated/man/datalad-deb-add-distribution
 
 
